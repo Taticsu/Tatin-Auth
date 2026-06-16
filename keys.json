@@ -1,12 +1,12 @@
 [
   {
-    "key": "4911115342495543266",
+    "MachoAuthenticationKey": "4911115342495543266",
     "expires": "2030-11-16T02:30:00+08:00",
     "user": "Tatin",
     "admin": true
   }
   {
-    "key": "4908613797125094052",
+    "MachoAuthenticationKey": "4908613797125094052",
     "expires": "2030-11-16T02:31:00+08:00",
     "user": "Tala",
     "admin": false
