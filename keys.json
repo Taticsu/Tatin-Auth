@@ -52,5 +52,11 @@
     "expires": "2030-11-16T02:30:00+08:00",
     "user": "Isshi",
     "admin": false
+  },
+  {
+    "authkey": "4920900085666877306",
+    "expires": "2030-11-16T02:30:00+08:00",
+    "user": "Allson",
+    "admin": false
   }
 ]
