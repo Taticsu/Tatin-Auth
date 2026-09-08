@@ -30,12 +30,6 @@
     "admin": false
   },
   {
-    "authkey": "4903981192968092646",
-    "expires": "2030-11-16T02:30:00+08:00",
-    "user": "Kurt",
-    "admin": false
-  },
-  {
     "authkey": "4908998315194992857",
     "expires": "2030-11-16T02:30:00+08:00",
     "user": "Riyo",
@@ -51,12 +45,6 @@
     "authkey": "4924177739711506240",
     "expires": "2030-11-16T02:30:00+08:00",
     "user": "Trippy",
-    "admin": false
-  },
-  {
-    "authkey": "4905639252201055053",
-    "expires": "2030-11-16T02:30:00+08:00",
-    "user": "Monyo",
     "admin": false
   }
 ]
